@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../img/background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+     
+}
+
+header p {
+    color: #dfdfdf;
+    font-family: 'TT Hoves Pro Variable', sans-serif;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 44px;
+    font-weight: 600;
+    word-spacing: 6px;
+    letter-spacing: 4px;
+}
+
+.title {
+    font-family: 'Nunito', sans-serif;
+    color: #C1E4F8;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0 0 1px #C1E4F8, 0 0 1px #C1E4F8, 0 0 0px #C1E4F8, 0 0 6px #C1E4F8, 0 0 39px #C1E4F8, 0 0 2px #C1E4F8;
+    margin-top: 474px;
+    margin-bottom: -50px;
+}
+.title a, .title p{
+    text-decoration: none;
+    display: inline-block;
+    color: #C1E4F8;
+  
+}
+footer {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 10px;
+    color: #C1E4F8;   
+}
+footer p {
+    display: inline;
+}
+
+.low {
+    font-size: 4px;
+}
+
+.high {
+    font-size: 7px;
+}
+
+.last {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
